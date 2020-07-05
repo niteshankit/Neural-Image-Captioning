@@ -1,0 +1,2 @@
+# Neural-Image-Captioning
+Suppose that we asked you to show and tell about an image, i.e. to define the image using a sentence. When done using computers, it will be the aim of image captioning model to train a network which can accurately define an input image by giving an output of a natural language sentence. This is a detailed project including report and presentation oo Neural Image Captioning
